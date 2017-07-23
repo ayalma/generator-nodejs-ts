@@ -1,0 +1,21 @@
+{
+  "name": "generator-nodejs-ts",
+  "version": "0.9.0",
+  "description": "yoeman generator for node js application with type script and express js",
+  "main": "index.js",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "ts-library"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ayalma",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^1.1.1"
+  }
+}
